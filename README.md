@@ -17,7 +17,7 @@
 | 항목 | 요구 사항 |
 | --- | --- |
 | OS | Windows 10 (2004 이상) / Windows 11 |
-| 런타임 | [.NET 8 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/8.0) — 없으면 최초 실행 시 Windows가 설치를 안내합니다 |
+| 런타임 | 별도 설치 불필요 (.NET 8 런타임이 실행 파일에 내장되어 있습니다) |
 | 아키텍처 | x64 |
 
 ## 주요 기능
